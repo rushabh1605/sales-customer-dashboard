@@ -1,6 +1,6 @@
 # 📊 Dynamic Sales & Customer Dashboard (Tableau)
 
-![Dashboard Preview](images/full_dashboard_2023.png)
+![Dashboard Preview](full_dashboard_2023.png)
 
 ## 🔍 Overview
 This Tableau project presents a **unified, interactive dashboard** combining both **Sales** and **Customer Analytics**. It enables stakeholders to explore trends and performance across multiple years, products, and locations using built-in filter controls.
