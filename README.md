@@ -65,16 +65,7 @@ The dashboard supports real-time filtering based on:
   - State
   - City
 
-These filters help users tailor the view for specific product lines, regions, and time periods.
-
----
-
-## 🎯 Purpose
-This project demonstrates how interactive dashboards can:
-- Track business performance over multiple years
-- Identify high-performing products and customers
-- Pinpoint areas with losses or growth potential
-- Empower data-driven decisions across departments
+These filters help users tailor the view for specific product lines, regions, and periods.
 
 ---
 
