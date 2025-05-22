@@ -11,6 +11,29 @@ This Tableau project presents a **unified, interactive dashboard** combining bot
 
 > Explore the fully interactive version of this dashboard with filters for year, product category, sub-category, and geographic region (Region, State, City).
 
+## 🎯 Dashboard Purpose
+The purpose of this dashboard is to present an overview of key **sales metrics** and **customer behavior** in order to analyze year-over-year performance, monitor trends, and uncover insights that support data-driven decisions.
+
+---
+
+## 📌 Key Requirements
+
+### 📊 KPI Overview
+- Display a summary of total **Sales**, **Profit**, and **Quantity** for the current and previous year.
+
+### 📈 Sales Trends
+- Present monthly performance for each KPI.
+- Highlight the highest and lowest performing months for quick pattern recognition.
+
+### 🧩 Product Subcategory Comparison
+- Compare performance across product subcategories for current and previous years.
+- Show both sales and profit figures for better business evaluation.
+
+### 📅 Weekly Trends for Sales & Profit
+- Present weekly-level insights for current-year data.
+- Display average weekly values.
+- Highlight weeks above and below average to flag spikes or slumps.
+
 ---
 
 ## 🧠 What This Dashboard Shows
